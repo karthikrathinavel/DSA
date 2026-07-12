@@ -14,4 +14,5 @@ DSA/
 │   └── binary_search.py
 ├── sort/
 │   └── selection_sort.py
+|   └── quick_sort_basic.py
 └── README.md
