@@ -10,9 +10,12 @@ The repository is organized by category:
 
 ```text
 DSA/
+├── leetcode/
+|   └── two_sum_1.py
 ├── search/
 │   └── binary_search.py
 ├── sort/
-│   └── selection_sort.py
-|   └── quick_sort_basic.py
+│   └── quick_sort_basic.py
+|   └── selection_sort.py
 └── README.md
+
