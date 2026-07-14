@@ -14,6 +14,7 @@ DSA/
 |   └── two_sum_1.py
 ├── search/
 │   └── binary_search.py
+|   └── linear_search.py
 ├── sort/
 │   └── quick_sort_basic.py
 |   └── selection_sort.py
