@@ -12,6 +12,8 @@ The repository is organized by category:
 DSA/
 ├── leetcode/
 |   └── two_sum_1.py
+├── numbers/
+|   └── factorial.py
 ├── search/
 │   └── binary_search.py
 |   └── linear_search.py
