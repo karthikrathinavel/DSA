@@ -14,6 +14,7 @@ DSA/
 |   └── two_sum_1.py
 ├── numbers/
 |   └── factorial.py
+|   └── reverse_a_number.py
 ├── search/
 │   └── binary_search.py
 |   └── linear_search.py
