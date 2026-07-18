@@ -12,10 +12,13 @@ The repository is organized by category:
 DSA/
 ├── leetcode/
 |   └── two_sum_1.py
+├── list/
+|   └── find_max_min.py
 ├── numbers/
 |   └── factorial.py
 |   └── fibonacci.py
 |   └── palindrome.py
+|   └── prime_checker.py
 |   └── reverse_a_number.py
 ├── search/
 │   └── binary_search.py
