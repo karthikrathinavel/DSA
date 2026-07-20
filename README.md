@@ -14,6 +14,7 @@ DSA/
 |   └── two_sum_1.py
 ├── list/
 |   └── find_max_min.py
+|   └── reverse.py
 ├── numbers/
 |   └── factorial.py
 |   └── fibonacci.py
