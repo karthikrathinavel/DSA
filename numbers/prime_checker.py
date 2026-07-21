@@ -9,6 +9,6 @@ def prime_check(num):
     return True
 
 num = int(input("Enter a number: "))
-res = prime_check(num)
 
+res = prime_check(num)
 print(f"{num} is {'Prime' if res else 'Not a Prime'}")
