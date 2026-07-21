@@ -16,11 +16,16 @@ DSA/
 |   └── find_max_min.py
 |   └── reverse.py
 ├── numbers/
+|   └── addition.py
+|   └── area_of_circle.py
+|   └── cm_to_m_and_feet.py
 |   └── factorial.py
 |   └── fibonacci.py
 |   └── palindrome.py
 |   └── prime_checker.py
 |   └── reverse_a_number.py
+|   └── simple_interest.py
+|   └── sum_of_last_digit.py
 ├── search/
 │   └── binary_search.py
 |   └── linear_search.py
