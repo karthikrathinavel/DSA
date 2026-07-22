@@ -12,6 +12,7 @@ The repository is organized by category:
 DSA/
 ├── leetcode/
 |   └── two_sum_1.py
+|   └── palindrome_number_9.py
 ├── list/
 |   └── find_max_min.py
 |   └── odd_even.py
