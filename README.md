@@ -12,6 +12,7 @@ The repository is organized by category:
 DSA/
 ├── leetcode/
 |   └── 1342_number_of_steps_to_reduce_a_number_to_zero.py
+|   └── 1672_richest_customer_wealth.py
 |   └── two_sum_1.py
 |   └── palindrome_number_9.py
 ├── list/
