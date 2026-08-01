@@ -11,6 +11,7 @@ The repository is organized by category:
 ```text
 DSA/
 ├── leetcode/
+|   └── 383_ransom_note.py
 |   └── 1342_number_of_steps_to_reduce_a_number_to_zero.py
 |   └── 1672_richest_customer_wealth.py
 |   └── two_sum_1.py
